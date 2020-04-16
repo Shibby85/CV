@@ -1,0 +1,51 @@
+/*********************** Tag ******************************/
+body {
+  background-color: lightblue;
+  margin: 0;
+}
+
+h1 {
+  margin: 0;
+  text-align: center;
+}
+
+/************************* Class ***************************/
+.text{
+  font-family: serif;
+  font-size: 36;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 200px;
+  top: 200px;
+}
+
+.mountain{
+  bottom: 10px;
+}
+
+.topcontainer {
+  padding-top: 75px;
+  position: relative;
+}
+/*
+.middlecontainer {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 119px;
+  left: 119px;
+}
+*/
+.bottomcontainer {
+  position: relative;
+}
+
+/************************** ID ******************************/
